@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#divOperacao{
+    text-align: center;
+    width: 500px;
+    margin: 20px auto;
+    border: 1px solid red;
+    background: black;
+    padding: 25px;
+    color: white;
+}
+#divPrimeiroInput{
+    float: left;
+    border: 1px solid red;
+}
+
+#divSegundoInput{
+    float: right;
+    border: 1px solid red;
+}
+
+#divCentral{
+    border: 1px solid red;
+    width: 50px;
+    background: url(../imagens/subtracao.png);
+}   
+
+#divInputs{
+    padding: 20px;
+    margin: 15px;
+}
+
+#resultado{
+    color: white;
+    background: black;
+    padding: 20px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid red;
+}
+
+.clear{
+    clear: both;
+}
+body{
+    background: url(../imagens/fundo1.jpg);
+}
